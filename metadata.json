@@ -1,0 +1,6 @@
+{
+  "name": "Shadow Hunter: Alien Ecosystem",
+  "description": "An immersive 3D survival and combat game set in alien environments. Hunt creatures, upgrade skills, and survive the ecosystem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
